@@ -1,7 +1,7 @@
 # 🌌 Roshan Senaa
 
 ``` diff
-+ AI | ML | Data Science | Cybersecurity | Future Researcher 🇩🇪
++ AI | ML | Data Science | Future Researcher 🇩🇪
 ```
 
 ------------------------------------------------------------------------
@@ -13,9 +13,9 @@ class Roshan:
     def __init__(self):
         self.education = "M.Sc Computer Science"
         self.interests = ["Artificial Intelligence", "Machine Learning", 
-                          "Data Science", "Cybersecurity"]
+                          "Data Science"]
         self.current_focus = "Building real-world AI systems"
-        self.goal = "Higher Studies & Research in Germany 🇩🇪"
+        self.goal = "Higher Studies & employement in Germany 🇩🇪"
 
     def mindset(self):
         return "Build. Learn. Research. Scale."
@@ -45,13 +45,6 @@ class Roshan:
 -   Machine Learning Algorithms\
 -   Data Preprocessing\
 -   Model Evaluation
-
-### 🔐 Cybersecurity
-
--   Network Fundamentals\
--   Cryptography Basics\
--   Digital Forensics\
--   Secure System Design
 
 ### 🌐 Web & Backend
 
