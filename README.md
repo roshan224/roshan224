@@ -14,7 +14,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
 
-+ AI | ML | Data Science | Future Researcher 🇩🇪
+
 ```
 
 ------------------------------------------------------------------------
